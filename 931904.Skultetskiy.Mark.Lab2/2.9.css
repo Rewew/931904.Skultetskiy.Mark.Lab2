@@ -1,0 +1,23 @@
+body 
+{
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+}
+
+.text_block 
+{
+        height: auto;
+        width: 600px;
+        background-color: blue;
+        color: white;
+        margin: 10px;
+}
+
+.image 
+{
+        float: right;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}

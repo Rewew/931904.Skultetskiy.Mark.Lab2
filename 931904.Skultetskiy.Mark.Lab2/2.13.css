@@ -1,0 +1,52 @@
+body 
+{
+	margin: 0;
+	padding: 0;
+}
+
+.table 
+{
+	height: auto;
+	width: auto;
+	border-spacing: 0px;
+	padding: 0px;
+	background-color: aqua;
+	margin: 10px;
+	border: 2px solid green;
+
+}
+
+.heading 
+{
+	height: 50px;
+	width: 100%;
+	padding: 15px;
+	color: black;
+	background-color: bisque;
+}
+
+.text {
+	height: auto;
+	width: auto;
+	color: black;
+	background-color: darkgray;
+}
+
+.image 
+{
+	height: 40%;
+	width: 40%;
+	float: right;
+	background-color: darkgray;
+}
+
+td 
+{
+	vertical-align: top;
+	padding: 0px;
+}
+
+p 
+{
+	margin: 0px;
+}
